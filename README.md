@@ -13,35 +13,27 @@ This project was created as *Task 2* during my internship at Prodigy Infotech.
 - Takes user input using the Scanner module
 - Provides feedback after every guess
 - Tracks and displays the number of attempts
-- Uses *recursion* to continue the guessing loop
+- Uses recursion to continue the guessing loop
 - Built using Java and IntelliJ IDEA
 
 🧪 Sample Input/output
 - Hello! Welcome to Guess the number game
 - Enter your Guess between 0 to 100
--28
--Your guess is 28
--28 is low 
--Try again
--50
--Your guess is 50
--50 is low 
--Try again
--70
--Your guess is 70
--70 is low 
--Try again
--90
--Your guess is 90
--90 is low 
--Try again
--95
--Your guess is 95
--95 is low 
--Try again
--97
--Your guess is 97
--Congratulations! You won the game in 6 attempts
+- 28
+- Your guess is 28
+- 28 is low 
+- Try again
+- 70
+- Your guess is 70
+- 70 is low 
+- Try again
+- 95
+- Your guess is 95
+- 95 is low 
+- Try again
+- 97
+- Your guess is 97
+- Congratulations! You won the game in 4 attempts
 
 Process finished with exit code 0
 
