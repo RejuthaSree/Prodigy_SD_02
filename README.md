@@ -17,8 +17,8 @@ This project was created as *Task 2* during my internship at Prodigy Infotech.
 - Built using Java and IntelliJ IDEA
 
 🧪 Sample Input/output
--Hello! Welcome to Guess the number game
--Enter your Guess between 0 to 100
+- Hello! Welcome to Guess the number game
+- Enter your Guess between 0 to 100
 -28
 -Your guess is 28
 -28 is low 
